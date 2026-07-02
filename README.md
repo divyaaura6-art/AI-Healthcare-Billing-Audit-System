@@ -193,6 +193,14 @@ complete audit workflow management.
 
 -   google-genai
 
+## Embedding Model
+
+- `sentence-transformers` (`all-MiniLM-L6-v2`)
+
+## Vector Database
+
+- `chromadb`
+
 ### Frontend
 
 -   streamlit
